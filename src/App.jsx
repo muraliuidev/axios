@@ -10,8 +10,8 @@ function App() {
   return (
     <div>
       <Title />
-      <FirstRequest />
-      {/* <HeadersData /> */}
+      {/* <FirstRequest /> */}
+      <HeadersData />
     </div>
   )
 }
