@@ -25,4 +25,4 @@ const fetchData = async () => {
         console.log(error.resonse)
     }
 };
-
+```
