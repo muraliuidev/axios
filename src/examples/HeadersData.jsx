@@ -10,7 +10,7 @@ function HeadersData() {
         try{
             const resp = await axios(url, {
                 headers: {
-                    Accept: 'Application/json'
+                    Accept: 'application/json'
                 }
             })
             setJoke(resp?.data.joke)
